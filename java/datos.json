@@ -1,0 +1,17 @@
+
+{"arraypobles":[
+    {"id":"1","localitat":"Quatretonda","potencia":"3,2"},
+    {"id":"2","localitat":"Benigani","potencia":"3,8"},
+    {"id":"3","localitat":"Llutxent","potencia":"3"}
+]
+,
+"arraydias":[
+    {"Obtingut":"50","perdut":"25","Gastat":"25"},
+    {"Obtingut":"55","perdut":"15","Gastat":"30"},
+    {"Obtingut":"40","perdut":"20","Gastat":"40"},
+    {"Obtingut":"45","perdut":"25","Gastat":"30"},
+    {"Obtingut":"55","perdut":"10","Gastat":"35"},
+    {"Obtingut":"35","perdut":"15","Gastat":"50"},
+    {"Obtingut":"70","perdut":"10","Gastat":"20"}
+]
+}
